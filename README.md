@@ -1,21 +1,5 @@
 <img src="https://user-images.githubusercontent.com/98171057/177011197-5763bda7-fe1a-4c03-b782-3b2f6f1f2cea.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
-### <h1 align="center">`<>Desafios Iniciais.Py - Unimed-BH</>` </h1> 
-
-<h2> Digital Innovation One
-
-Desafios Inciais Python - Unimed BH
-
-Bootcamp  Geração Tech Unimed-BH - Ciência de Dados</h2>
-
-<h3> Tecnologias que foram utilizadas: </h3>
-
-![VSCode](https://img.shields.io/badge/-VSCode-white?style=flat&logo=visualstudiocode&logoColor=007ACC&)
-![Python](https://img.shields.io/badge/-Python-white?style=flat&logo=python)
-
-
-<img src="https://user-images.githubusercontent.com/98171057/177011197-5763bda7-fe1a-4c03-b782-3b2f6f1f2cea.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
-
 ### <h1 align="center">`<> Projeto One Piece </>` </h1> 
 
 <h3> Tools that were used: </h3>
@@ -25,7 +9,7 @@ Bootcamp  Geração Tech Unimed-BH - Ciência de Dados</h2>
 ![JavaScript](https://img.shields.io/badge/-JavaScript-white?style=flat&logo=javascript&logoColor=DAA520&)
 
 ##
-<h4> Projeto One Piece </h4>
+<h4> Projeto One Piece  - Dev em Dobro</h4>
 
 - Responsive Projeto One Piece website Using HTML CSS & JavaScript
 - Contains animations JavaScript.
